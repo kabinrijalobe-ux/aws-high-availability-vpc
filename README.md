@@ -153,5 +153,25 @@ Some improvements I would like to make as I continue learning:
 - Use Route 53 with a custom domain
 - Improve monitoring with CloudWatch
 - Automate infrastructure deployment using Terraform
+
+  ## Project Screenshots
+
+### VPC Resource Map
+![VPC Resource Map](screenshots/01-vpc.png)
+
+### Launch Template
+![Launch Template](screenshots/02-launch-template.png)
+
+### Auto Scaling Group
+![Auto Scaling Group](screenshots/03-auto-scaling.png)
+
+### Bastion Host Access
+![Bastion Host](screenshots/04-bastion.png)
+
+### Application Load Balancer
+![Application Load Balancer](screenshots/05-load-balancer.png)
+
+### Working Application
+![Working Application](screenshots/06-working-website.png)
 - Build a CI/CD pipeline for application deployment
 - Explore AWS Systems Manager Session Manager as an alternative to a traditional bastion host
