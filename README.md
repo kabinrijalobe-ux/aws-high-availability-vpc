@@ -9,6 +9,7 @@ I created a custom VPC across two Availability Zones with public and private sub
 I also used an Auto Scaling Group with a Launch Template to manage the EC2 instances and created a bastion host so I could securely reach the private instances for administration and troubleshooting.
 
 ## Architecture
+![AWS High Availability Architecture](aws-architecture-diagram.png)
 
 The architecture includes:
 
